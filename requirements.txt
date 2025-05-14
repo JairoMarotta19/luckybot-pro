@@ -1,7 +1,5 @@
-streamlit
 pandas
-scikit-learn
-xgboost
-fpdf
 numpy
 requests
+beautifulsoup4
+scipy
